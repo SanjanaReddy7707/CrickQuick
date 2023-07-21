@@ -1,7 +1,7 @@
 # CrickQuick- Chrome Extension for Cricket Scores
 CrickQuick is a simple and lightweight Chrome extension that provides real-time cricket scores right in your browser. Stay up-to-date with the latest cricket match results without leaving your favorite websites.
 
-#Features
+##Features
 Instantly get the latest cricket scores for ongoing matches.
 Updates delivered in real-time, so you're always in the loop.
 Easy-to-use and non-intrusive design for a seamless browsing experience.
