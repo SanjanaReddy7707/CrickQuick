@@ -16,7 +16,7 @@ CrickQuick is a simple and lightweight Chrome extension that provides real-time 
 2. Open Google Chrome and go to chrome://extensions/.
 3. Enable "Developer mode" in the top-right corner of the extensions page.
 4. Click "Load unpacked" and select the folder where you cloned this repository.
-5. CrickQuick Chrome extension will be installed and ready to use.
+5. The CrickQuick Chrome extension will be installed and ready to use.
 
 ### Option 2: Download ZIP
 
