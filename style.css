@@ -21,4 +21,5 @@ li {
     margin: 0 0;
     background-color: peachpuff;
     text-align: center; /* Center the text within each list item */
+    margin-bottom: 10px;
 }
